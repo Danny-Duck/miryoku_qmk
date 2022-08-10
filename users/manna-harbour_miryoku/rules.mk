@@ -5,6 +5,8 @@ MOUSEKEY_ENABLE = yes # Mouse keys
 EXTRAKEY_ENABLE = yes # Audio control and System control
 AUTO_SHIFT_ENABLE = yes # Auto Shift
 VIA_ENABLE = yes
+MIRYOKU_ALPHAS=QWERTY
+# MIRYOKU_NAV=VI
 
 SRC += manna-harbour_miryoku.c # keymaps
 
